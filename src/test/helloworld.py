@@ -6,3 +6,4 @@ Created on 12 Jul 2011
 
 print "hello"
 print "hello twice"
+print "hello trice"
